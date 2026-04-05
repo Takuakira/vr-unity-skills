@@ -16,3 +16,5 @@ Always output in this exact format:
 2. Full, clean, well-commented C# code block.
 3. How to attach and integrate the script.
 4. Testing steps and potential issues.
+
+---
